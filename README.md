@@ -1,4 +1,6 @@
-
+<a href="https://orbital-module-administrator-38001948-7432178.postman.co/collection/47070055-46664237-3751-4498-b02b-731ea10a2672?source=rip_html">
+	<img alt="Run in Postman" src="https://run.pstmn.io/button.svg">
+</a>
 
 #  Django + FastAPI + JWT
 
