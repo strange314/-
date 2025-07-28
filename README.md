@@ -1,4 +1,3 @@
-https://api.postman.com/collections/47070055-46664237-3751-4498-b02b-731ea10a2672?access_key=PMAT-01K18YDYT52GXRTFPK57HMX7ZP
 
 
 #  Django + FastAPI + JWT
